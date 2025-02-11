@@ -7,3 +7,4 @@ public class BmiService {
         double index = (int) index;
         return (int) index;
     }
+}
